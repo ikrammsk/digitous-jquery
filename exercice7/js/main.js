@@ -1,0 +1,2 @@
+
+$(text).removeClass("display");
