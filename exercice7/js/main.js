@@ -1,2 +1,7 @@
 
-$(text).removeClass("display");
+
+
+
+$("p").show(function(){
+    $("#text").css("display" ,"Unset");
+});

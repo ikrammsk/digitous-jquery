@@ -1,7 +1,7 @@
 
 
 
-$("#displaySecretText").click(function () {
-    $("display").animate(3000, function () {
-    });
+$("button").click(function(){
+  $("p").toggle(2000, function displaySecretText() {
+  });
 });
